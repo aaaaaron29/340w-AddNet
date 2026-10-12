@@ -1,0 +1,6 @@
+# Large model artifacts (track via releases or external storage instead)
+*.h5
+*.ckpt
+*.pt
+__pycache__/
+.ipynb_checkpoints/
