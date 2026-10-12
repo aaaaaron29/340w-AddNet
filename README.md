@@ -32,7 +32,7 @@ instead of letting the headline number stand unqualified.
 
 ## Repo structure
 
-This was built incrementally over a semester, so the notebooks reflect that:
+This was built incrementally over a semester, so the notebooks reflect that; all intermediary notebooks are not published:
 
 - `ADDNet126run.ipynb` — primary implementation notebook with full outputs
 - `Midterm/` — midterm checkpoint submission
